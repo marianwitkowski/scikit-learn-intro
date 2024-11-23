@@ -197,9 +197,7 @@ Metryki oceny pozwalają zmierzyć jakość działania modelu na podstawie wynik
    ```python
    from sklearn.metrics import mean_squared_error
 
-   print(f"MSE: {mean_squared_error(y, y_pred):.2f
-
-}")
+   print(f"MSE: {mean_squared_error(y, y_pred):.2f}")
    ```
 
 2. **Mean Absolute Error (MAE):**
