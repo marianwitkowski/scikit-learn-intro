@@ -1,4 +1,9 @@
-# Konspekt publikacji: **"Scikit-learn: Przewodnik po najważniejszych możliwościach i zastosowaniach"**
+# **Scikit-learn: Przewodnik po najważniejszych możliwościach i zastosowaniach**
+
+<i>Zanim wszystko zaczniesz wrzucasz do prompta ChatGPT, warto poznać jak to drzewiej bywało, i że znająć się na analizie danych oraz uczeniu maszynowym też jesteś w stanie tworzy niezłe modele....</i>
+
+
+#### &copy; 2024 - Marian Witkowski marian.witkowski[at]gmail.com
 
 ### **1. <a href='01-wprowadzenie.md'>Wprowadzenie</a>**
    - **1.1. Czym jest Scikit-learn?**
