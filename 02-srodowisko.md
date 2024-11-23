@@ -82,7 +82,7 @@ Użytkownicy Anacondy mogą stworzyć nowe środowisko za pomocą `conda`:
 
 1. Utwórz środowisko o nazwie `ml_env` z określoną wersją Pythona:
    ```bash
-   conda create --name ml_env python=3.9
+   conda create --name ml_env python=3.12
    ```
 
 2. Aktywuj środowisko:
