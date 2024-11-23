@@ -1,6 +1,6 @@
 # Konspekt publikacji: **"Scikit-learn: Przewodnik po najważniejszych możliwościach i zastosowaniach"**
 
-### **1. Wprowadzenie**
+### **1. <a href='01-wprowadzenie.md'>Wprowadzenie</a>**
    - **1.1. Czym jest Scikit-learn?**
      - Krótka charakterystyka: popularna biblioteka Python do uczenia maszynowego.
      - Kluczowe cechy: prostota, wszechstronność, efektywność.
@@ -8,12 +8,12 @@
      - Wspierane algorytmy i narzędzia.
      - Integracja z innymi bibliotekami (NumPy, Pandas, Matplotlib).
 
-### **2. Instalacja i podstawowa konfiguracja**
+### **2. <a href='02-srodowisko.md'>Instalacja i podstawowa konfiguracja</a>**
    - Instrukcja instalacji przez `pip` i `conda`.
    - Przygotowanie środowiska programistycznego.
    - Importowanie kluczowych modułów.
 
-### **3. Struktura Scikit-learn**
+### **3. <a href='03-struktura.md'>Struktura Scikit-learn</a>**
    - **3.1. Główne komponenty:**
      - Estymatory (`fit`, `predict`, `transform`).
      - Procesory (`pipeline`, `preprocessing`).
@@ -21,7 +21,7 @@
      - Jednolity interfejs.
      - Klasyfikacja, regresja, klastrowanie.
 
-### **4. Przykładowe zastosowania Scikit-learn**
+### **4. <a href='04-zastosowanie.md'>Przykładowe zastosowania Scikit-learn</a>**
    - **4.1. Klasyfikacja**
      - Przykład: rozpoznawanie irysów na podstawie zestawu danych Iris.
      - Algorytmy: drzewa decyzyjne, SVM, kNN.
@@ -38,7 +38,7 @@
      - Przykład: identyfikacja oszustw finansowych.
      - Algorytmy: Isolation Forest, One-class SVM.
 
-### **5. Przetwarzanie danych**
+### **5. <a href='05-przetwarzanie.md'>Przetwarzanie danych</a>**
    - **5.1. Wstępne przetwarzanie**
      - Skalowanie (StandardScaler, MinMaxScaler).
      - Kodowanie zmiennych kategorycznych (OneHotEncoder).
@@ -48,7 +48,7 @@
      - Automatyzacja przetwarzania i modelowania.
      - Tworzenie własnych potoków.
 
-### **6. Walidacja modeli i dobór hiperparametrów**
+### **6. <a href='06-walidacja.md'>Walidacja modeli i dobór hiperparametrów</a>**
    - **6.1. Walidacja krzyżowa**
      - Funkcja `cross_val_score`.
    - **6.2. Dobór hiperparametrów**
@@ -57,12 +57,12 @@
      - Klasyfikacja: Accuracy, F1-score, ROC AUC.
      - Regresja: MSE, MAE, R^2.
 
-### **7. Integracja z innymi narzędziami**
+### **7. <a href='07-integracja.md'>Integracja z innymi narzędziami</a>**
    - Wykorzystanie Pandas do analizy danych.
    - Wizualizacja wyników za pomocą Matplotlib i Seaborn.
    - Eksportowanie modeli do formatu Pickle lub ONNX.
 
-### **8. Wyzwania i najlepsze praktyki**
+### **8. <a href='08-praktyki.md'>Wyzwania i najlepsze praktyki</a>**
    - Unikanie przeuczenia.
    - Interpretowalność modeli.
    - Dokumentacja i źródła dodatkowe (przewodniki, tutoriale).
